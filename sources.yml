@@ -1,0 +1,36 @@
+sources:
+  - name: spamhaus_drop
+    url: "https://www.spamhaus.org/drop/drop.txt"
+
+  - name: dshield
+    url: "https://feeds.dshield.org/block.txt"
+
+  - name: blocklist_de
+    url: "https://lists.blocklist.de/lists/all.txt"
+
+  - name: ciarmy
+    url: "https://cinsscore.com/list/ci-badguys.txt"
+
+  - name: bruteforceblocker
+    url: "https://iplists.firehol.org/files/bruteforceblocker.ipset"
+
+  - name: darklist_de
+    url: "https://www.darklist.de/raw.php"
+
+  - name: cruzit_web_attacks
+    url: "https://iplists.firehol.org/files/cruzit_web_attacks.ipset"
+
+  - name: et_compromised
+    url: "https://rules.emergingthreats.net/blockrules/compromised-ips.txt"
+
+  - name: bds_atif
+    url: "https://www.binarydefense.com/banlist.txt"
+
+  - name: greensnow
+    url: "https://blocklist.greensnow.co/greensnow.txt"
+
+  - name: maltrail_scanners
+    url: "https://iplists.firehol.org/files/maltrail_scanners.ipset"
+
+  - name: ipsum_3
+    url: "https://raw.githubusercontent.com/stamparm/ipsum/master/levels/3.txt"
