@@ -129,3 +129,15 @@ dist/blocklist.p2p.gz
 This is not a pure torrent-specific blocklist. It is a security-focused blocklist for Transmission, built from public threat intelligence sources.
 
 Some entries may come from scanners, compromised hosts, brute-force sources, hostile networks, or public reputation feeds. False positives are possible.
+
+## Copyright and license
+
+Copyright (c) 2026 [h1de0x](https://github.com/h1de0x).
+
+Project: <https://github.com/h1de0x/transmission-blocklist>
+
+The generator code, workflow files, and project documentation are licensed under the MIT License. See [`LICENSE`](LICENSE).
+
+The generated blocklists are compiled from third-party public threat intelligence feeds. Rights, licenses, and usage restrictions for upstream sources remain with their respective maintainers.
+
+Use this blocklist at your own risk. False positives are possible.
