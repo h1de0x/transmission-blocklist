@@ -14,9 +14,6 @@ sources:
   - name: bruteforceblocker
     url: "https://iplists.firehol.org/files/bruteforceblocker.ipset"
 
-  - name: darklist_de
-    url: "https://www.darklist.de/raw.php"
-
   - name: cruzit_web_attacks
     url: "https://iplists.firehol.org/files/cruzit_web_attacks.ipset"
 
