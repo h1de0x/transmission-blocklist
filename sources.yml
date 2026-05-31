@@ -1,7 +1,4 @@
 sources:
-  - name: spamhaus_drop
-    url: "https://www.spamhaus.org/drop/drop.txt"
-
   - name: dshield
     url: "https://feeds.dshield.org/block.txt"
 
